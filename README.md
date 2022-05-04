@@ -1,2 +1,2 @@
-# Projeto-1-portif-lio
+# Projeto-1-portifolio
 Meu primeiro projeto em front-End em forma de um portifólio.
